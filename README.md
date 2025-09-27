@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Naziba Nowshin Faiza
 
-<!--
-**nowshinnaziba/nowshinnaziba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science student at **United International University**, Bangladesh  
+💡 Passionate about learning how technology solves real-life problems  
+💻 Currently exploring the world of programming and computer science fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I've Learned So Far
+
+- ✅ **C Programming** — solving basic real-life problems through code  
+- ✅ **Discrete Mathematics** — building a strong foundation in logic and computation  
+
+---
+
+## 🚀 What I'm Working On
+
+- 🌱 Learning **Data Structures and Algorithms**  
+- 🔍 Exploring **Python** and **Software Development**  
+- 📚 Building small projects to apply what I learn  
+
+---
+
+## 🎯 My Goals
+
+- 💻 Become a skilled problem solver and developer  
+- 🌐 Contribute to open-source projects  
+- 📈 Grow as a tech enthusiast and lifelong learner  
+
+---
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories and follow my journey. I'm always open to learning and collaboration!
+
